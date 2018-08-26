@@ -1,4 +1,4 @@
-# Kick-out-the-bad-boys
+# Kick-out-the-bad-boys - HCL madurAI Hackathon
 
 *Abstract:*
 This project is used to find the offensive and hate speeches present in the social network. This project has been achieved using Machine Learning and Natural Language Processing.
