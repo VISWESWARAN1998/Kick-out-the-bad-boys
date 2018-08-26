@@ -18,3 +18,10 @@ Finally we are going to apply a Machine Learning algorithm, here we have used Lo
 *(d) Backend:* Scikit-Learn, Pandas, Numpy, NLTK
 
 *(e) FrontEnd:* PyQT
+
+
+**END RESULT:**
+
+![image](display.png)
+
+*Note:* See IPython Notebook file for the machine learning model, python file is an example desktop application created from it.
